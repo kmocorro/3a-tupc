@@ -1,0 +1,27 @@
+.container {
+  margin: 50px;
+}
+
+.container h1 {
+  color: red;
+  font-size: 96px;
+  margin-bottom: 0px;
+}
+
+.container .tupc {
+  color: red;
+}
+
+.container .nu {
+  color: gold;
+}
+
+.container .campus {
+  margin-top: 12px;
+  margin-bottom: 0px;
+  font-size: 48px;
+}
+
+.container p {
+  font-size: 24px;
+}

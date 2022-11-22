@@ -1,0 +1,25 @@
+.primary {
+  background-color: #c51f3b;
+  width: 140px;
+  height: 60px;
+  color: white;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+}
+.primary:hover {
+  background-color: #94172c;
+}
+
+.secondary {
+  background-color: transparent;
+  width: 140px;
+  height: 60px;
+  color: black;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+}
+.secondary:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,24 @@
+.container {
+  padding: 50px;
+  background-color: #c51f3b;
+  display: flex;
+  align-items: center;
+}
+
+.message {
+  color: white;
+  width: 100%;
+}
+
+.message h2 {
+  font-size: 64px;
+}
+
+.message p {
+  font-size: 36px;
+}
+
+.image {
+  margin: 20px;
+  width: 100%;
+}
